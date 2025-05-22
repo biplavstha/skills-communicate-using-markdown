@@ -15,3 +15,7 @@
 ```
 This is a code block
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
